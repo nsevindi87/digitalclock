@@ -8,6 +8,7 @@ body {
     background: url(./photo-1469474968028-56623f02e42e.avif);
     font-family: sans-serif;
     background-size: cover;
+    overflow: hidden;
 }
 
 h2{
